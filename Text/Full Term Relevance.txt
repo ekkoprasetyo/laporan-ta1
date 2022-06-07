@@ -1,0 +1,43 @@
+﻿id	term	occurrences	relevance score
+1	0289halaman	11	0.7251
+2	agus zainul arifin	10	0.4945
+3	anas lutfi	14	1.524
+4	berisi	11	0.4945
+5	bidang ilmu manajemen dan kewirausahaan	10	0.4945
+6	carunia mulya firdausy	14	1.6478
+7	dalam setahun	10	0.4945
+8	dan fax	10	0.4945
+9	e issn	16	2.2245
+10	eddy supriyatna mz	10	0.4945
+11	eko harry susanto	14	1.3654
+12	email	12	0.4945
+13	environmental impact	11	0
+14	gedung utama	10	0.4945
+15	grogol	10	0.4945
+16	hardius usman	10	0.4945
+17	hetty karunia tunjung sari	10	0.4945
+18	indra widjaja	18	3.2518
+19	inventory intensity	13	0
+20	jen	10	0.4945
+21	jurnal manajemen bisnis dan kewirausahaan	22	0.4945
+22	jurnal manajemen bisnisdan kewirausahaan volume	10	0.4945
+23	kampus	10	0.4945
+24	ketua dewan penyuntingprof	10	0.4945
+25	lantai	10	0.4945
+26	mhum	10	0.4945
+27	mkn	10	0.4945
+28	mm alamat penyunting dan tata usaha	10	0.4945
+29	mmuntartarumanagaraacid	10	0.4945
+30	msi	10	0.4945
+31	phd	12	0.4945
+32	program studi mm untar	10	0.4945
+33	s parman no	10	0.4945
+34	sestephanie pane	10	0.4945
+35	telp	10	0.4945
+36	terbit enam	10	0.4945
+37	universitas indonesiadr	20	3.6253
+38	universitas tarumanagara anggota dewan penyunting dr ir	10	0.4945
+39	universitas tarumanagara sekretariatmaria benedicta	10	0.4945
+40	universitas tarumanagara wakil ketua dewan penyuntingdr	10	0.4945
+41	universitas tarumanagaradr	30	11.8114
+42	yang diangkat	10	0.4945

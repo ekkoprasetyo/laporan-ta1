@@ -1,0 +1,21 @@
+﻿id	term	occurrences	relevance score
+1	assessment	120	0.8694
+2	chapter	276	1.4533
+3	dalam	133	1.0318
+4	dan	273	0.983
+5	firm	356	1.0765
+6	indonesia	170	0.2668
+7	ini	191	0.8786
+8	inventaris	518	1.2858
+9	inventory level	112	1.1983
+10	manajeman	780	1.0839
+11	pada	126	1.0909
+12	profitability	148	0.9856
+13	relationship	192	0.7178
+14	retailer	144	1.1217
+15	sample	114	0.4859
+16	scale	100	0.6921
+17	sistem	177	1.3718
+18	supply chain	352	1.4896
+19	supply chain management	192	1.4337
+20	variable	128	0.4836
